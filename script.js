@@ -13,8 +13,8 @@ const translations = {
     "Disponibilità": "Availability",
     "Richiedi disponibilità": "Request availability",
     "Scopri le camere": "Discover the rooms",
-    "B&B a Cogorno · Golfo del Tigullio": "B&B in Cogorno · Gulf of Tigullio",
-    "B&B La Terrazza Sui Fieschi: vista mare e relax in Liguria.": "B&B La Terrazza Sui Fieschi: sea views and relaxation in Liguria.",
+    "B&B a Cogorno - Golfo del Tigullio": "B&B in Cogorno - Gulf of Tigullio",
+    "Relax vista mare in Liguria.": "Sea-view relaxation in Liguria.",
     "Camere accoglienti, terrazza panoramica con idromassaggio riscaldata e una posizione ideale per scoprire Portofino, Cinque Terre e Riviera Ligure.": "Welcoming rooms, a panoramic terrace with heated hot tub and an ideal location for discovering Portofino, Cinque Terre and the Ligurian Riviera.",
     "MAGGIORE PRESENZA ONLINE": "STRONGER ONLINE PRESENCE",
     "MAGGIORE FIDUCIA": "GREATER TRUST",
@@ -39,8 +39,8 @@ const translations = {
     "Prese USB affianco al letto": "USB sockets beside the bed",
     "SET cortesia": "Courtesy set",
     "Ciabatte da camera": "Room slippers",
-    "Vista mare, colazioni e terrazza panoramica.": "Sea views, breakfasts and panoramic terrace.",
-    "Una terrazza sospesa tra colline liguri e mare.": "A terrace suspended between Ligurian hills and the sea.",
+    "Vista, colazioni, relax.": "Views, breakfast, relaxation.",
+    "Terrazza vista mare.": "Sea-view terrace.",
     "Il B&B La Terrazza Sui Fieschi si adagia sulle verdi colline liguri con una vista mozzafiato sul golfo del Tigullio.": "B&B La Terrazza Sui Fieschi sits on the green Ligurian hills with breathtaking views over the Gulf of Tigullio.",
     "Sull’ampia terrazza panoramica è possibile rilassarsi nella vasca idromassaggio riscaldata a disposizione degli ospiti del B&B.": "On the large panoramic terrace, guests can relax in the heated hot tub available to B&B guests.",
     "L’ampia sala colazioni ha tre grandi finestre con vista sul mare e sulla vallata sottostante, dove saremo a disposizione per fornirvi informazioni turistiche o per socializzare, gustando la colazione o un aperitivo.": "The spacious breakfast room has three large windows overlooking the sea and the valley below, where we are available to share tourist information or socialize over breakfast or an aperitif.",
@@ -58,7 +58,7 @@ const translations = {
     "Ambiente tranquillo, camere curate e una vista che cambia colore dal mattino al tramonto. Ci siamo sentiti subito a casa.": "A peaceful setting, well-kept rooms and a view that changes color from morning to sunset. We immediately felt at home.",
     "Recensione ospite": "Guest review",
     "Leggi le recensioni su Google": "Read reviews on Google",
-    "San Salvatore di Cogorno, nel cuore del Tigullio.": "San Salvatore di Cogorno, in the heart of Tigullio.",
+    "San Salvatore di Cogorno": "San Salvatore di Cogorno",
     "Indirizzo": "Address",
     "Cellulare": "Mobile phone",
     "Cellulare:": "Mobile phone:",
@@ -93,8 +93,8 @@ const translations = {
     "Disponibilità": "Disponibilités",
     "Richiedi disponibilità": "Demander une disponibilité",
     "Scopri le camere": "Découvrir les chambres",
-    "B&B a Cogorno · Golfo del Tigullio": "B&B à Cogorno · Golfe du Tigullio",
-    "B&B La Terrazza Sui Fieschi: vista mare e relax in Liguria.": "B&B La Terrazza Sui Fieschi : vue mer et détente en Ligurie.",
+    "B&B a Cogorno - Golfo del Tigullio": "B&B à Cogorno - Golfe du Tigullio",
+    "Relax vista mare in Liguria.": "Détente avec vue mer en Ligurie.",
     "Camere accoglienti, terrazza panoramica con idromassaggio riscaldata e una posizione ideale per scoprire Portofino, Cinque Terre e Riviera Ligure.": "Chambres accueillantes, terrasse panoramique avec bain à remous chauffé et emplacement idéal pour découvrir Portofino, les Cinque Terre et la Riviera ligure.",
     "MAGGIORE PRESENZA ONLINE": "PLUS DE PRÉSENCE EN LIGNE",
     "MAGGIORE FIDUCIA": "PLUS DE CONFIANCE",
@@ -119,8 +119,8 @@ const translations = {
     "Prese USB affianco al letto": "Prises USB à côté du lit",
     "SET cortesia": "Set de courtoisie",
     "Ciabatte da camera": "Chaussons",
-    "Vista mare, colazioni e terrazza panoramica.": "Vue mer, petits-déjeuners et terrasse panoramique.",
-    "Una terrazza sospesa tra colline liguri e mare.": "Une terrasse suspendue entre collines ligures et mer.",
+    "Vista, colazioni, relax.": "Vue, petits-déjeuners, détente.",
+    "Terrazza vista mare.": "Terrasse avec vue mer.",
     "Il B&B La Terrazza Sui Fieschi si adagia sulle verdi colline liguri con una vista mozzafiato sul golfo del Tigullio.": "Le B&B La Terrazza Sui Fieschi se niche sur les collines verdoyantes de Ligurie avec une vue imprenable sur le golfe du Tigullio.",
     "Sull’ampia terrazza panoramica è possibile rilassarsi nella vasca idromassaggio riscaldata a disposizione degli ospiti del B&B.": "Sur la grande terrasse panoramique, il est possible de se détendre dans le bain à remous chauffé mis à disposition des hôtes du B&B.",
     "L’ampia sala colazioni ha tre grandi finestre con vista sul mare e sulla vallata sottostante, dove saremo a disposizione per fornirvi informazioni turistiche o per socializzare, gustando la colazione o un aperitivo.": "La grande salle de petit-déjeuner possède trois larges fenêtres avec vue sur la mer et la vallée, où nous serons disponibles pour vous donner des informations touristiques ou échanger autour du petit-déjeuner ou d'un apéritif.",
@@ -138,7 +138,7 @@ const translations = {
     "Ambiente tranquillo, camere curate e una vista che cambia colore dal mattino al tramonto. Ci siamo sentiti subito a casa.": "Cadre paisible, chambres soignées et une vue qui change de couleur du matin au coucher du soleil. Nous nous sommes sentis comme chez nous.",
     "Recensione ospite": "Avis client",
     "Leggi le recensioni su Google": "Lire les avis sur Google",
-    "San Salvatore di Cogorno, nel cuore del Tigullio.": "San Salvatore di Cogorno, au cœur du Tigullio.",
+    "San Salvatore di Cogorno": "San Salvatore di Cogorno",
     "Indirizzo": "Adresse",
     "Cellulare": "Téléphone portable",
     "Cellulare:": "Téléphone portable :",
@@ -173,8 +173,8 @@ const translations = {
     "Disponibilità": "Verfügbarkeit",
     "Richiedi disponibilità": "Verfügbarkeit anfragen",
     "Scopri le camere": "Zimmer entdecken",
-    "B&B a Cogorno · Golfo del Tigullio": "B&B in Cogorno · Golf von Tigullio",
-    "B&B La Terrazza Sui Fieschi: vista mare e relax in Liguria.": "B&B La Terrazza Sui Fieschi: Meerblick und Erholung in Ligurien.",
+    "B&B a Cogorno - Golfo del Tigullio": "B&B in Cogorno - Golf von Tigullio",
+    "Relax vista mare in Liguria.": "Meerblick und Erholung in Ligurien.",
     "Camere accoglienti, terrazza panoramica con idromassaggio riscaldata e una posizione ideale per scoprire Portofino, Cinque Terre e Riviera Ligure.": "Gemütliche Zimmer, eine Panoramaterrasse mit beheiztem Whirlpool und eine ideale Lage, um Portofino, die Cinque Terre und die ligurische Riviera zu entdecken.",
     "MAGGIORE PRESENZA ONLINE": "MEHR ONLINE-PRÄSENZ",
     "MAGGIORE FIDUCIA": "MEHR VERTRAUEN",
@@ -199,8 +199,8 @@ const translations = {
     "Prese USB affianco al letto": "USB-Steckdosen am Bett",
     "SET cortesia": "Pflegeset",
     "Ciabatte da camera": "Hausschuhe",
-    "Vista mare, colazioni e terrazza panoramica.": "Meerblick, Frühstück und Panoramaterrasse.",
-    "Una terrazza sospesa tra colline liguri e mare.": "Eine Terrasse zwischen ligurischen Hügeln und Meer.",
+    "Vista, colazioni, relax.": "Ausblick, Frühstück, Erholung.",
+    "Terrazza vista mare.": "Terrasse mit Meerblick.",
     "Il B&B La Terrazza Sui Fieschi si adagia sulle verdi colline liguri con una vista mozzafiato sul golfo del Tigullio.": "Das B&B La Terrazza Sui Fieschi liegt auf den grünen Hügeln Liguriens mit atemberaubendem Blick auf den Golf von Tigullio.",
     "Sull’ampia terrazza panoramica è possibile rilassarsi nella vasca idromassaggio riscaldata a disposizione degli ospiti del B&B.": "Auf der großen Panoramaterrasse können Gäste im beheizten Whirlpool entspannen, der den Gästen des B&B zur Verfügung steht.",
     "L’ampia sala colazioni ha tre grandi finestre con vista sul mare e sulla vallata sottostante, dove saremo a disposizione per fornirvi informazioni turistiche o per socializzare, gustando la colazione o un aperitivo.": "Der große Frühstücksraum hat drei große Fenster mit Blick auf das Meer und das darunterliegende Tal. Dort geben wir Ihnen gern touristische Informationen oder plaudern bei Frühstück oder Aperitif.",
@@ -218,7 +218,7 @@ const translations = {
     "Ambiente tranquillo, camere curate e una vista che cambia colore dal mattino al tramonto. Ci siamo sentiti subito a casa.": "Ruhige Atmosphäre, gepflegte Zimmer und ein Ausblick, der vom Morgen bis zum Sonnenuntergang die Farbe wechselt. Wir fühlten uns sofort wie zu Hause.",
     "Recensione ospite": "Gästebewertung",
     "Leggi le recensioni su Google": "Bewertungen auf Google lesen",
-    "San Salvatore di Cogorno, nel cuore del Tigullio.": "San Salvatore di Cogorno, im Herzen von Tigullio.",
+    "San Salvatore di Cogorno": "San Salvatore di Cogorno",
     "Indirizzo": "Adresse",
     "Cellulare": "Mobiltelefon",
     "Cellulare:": "Mobiltelefon:",
@@ -362,6 +362,8 @@ const setupCarousel = ({
   let startX = 0;
   let startY = 0;
   let suppressClick = false;
+  let isCarouselVisible = false;
+  let hasEnteredView = false;
 
   if (!slides.length) return;
 
@@ -384,7 +386,7 @@ const setupCarousel = ({
   const stopAuto = () => window.clearInterval(autoTimer);
   const startAuto = () => {
     stopAuto();
-    if (!reducedMotion && slides.length > 1) {
+    if (isCarouselVisible && !reducedMotion && slides.length > 1) {
       autoTimer = window.setInterval(() => setSlide(currentSlide + 1), autoDelay);
     }
   };
@@ -452,7 +454,29 @@ const setupCarousel = ({
   carousel.addEventListener("focusout", startAuto);
 
   setSlide(0);
-  startAuto();
+
+  if ("IntersectionObserver" in window) {
+    const carouselObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        isCarouselVisible = entry.isIntersecting;
+        if (isCarouselVisible) {
+          if (!hasEnteredView) {
+            setSlide(0);
+            hasEnteredView = true;
+          }
+          startAuto();
+        } else {
+          stopAuto();
+        }
+      });
+    }, { threshold: 0.35 });
+
+    carouselObserver.observe(carousel);
+  } else {
+    isCarouselVisible = true;
+    hasEnteredView = true;
+    startAuto();
+  }
 };
 
 document.querySelectorAll("[data-room-carousel]").forEach((carousel) => {

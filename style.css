@@ -1952,7 +1952,12 @@ body.modal-open::after {
 
   .room-amenities {
     order: 5;
-    margin-top: 6px;
+    width: 100%;
+    max-width: none;
+    margin: 6px 0 0;
+    padding: 0;
+    justify-self: stretch;
+    text-align: left;
   }
 
   .room-link {
